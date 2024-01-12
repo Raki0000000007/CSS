@@ -1,0 +1,48 @@
+
+*{
+    padding: 0;
+    margin: 0
+    ;
+}
+button{
+    background-color: green;
+    border: none;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 5px;
+}
+button:hover{
+    cursor: pointer;
+}
+.first{
+    background-color: green;
+    width: 100px;
+    height: 75px;
+}
+.second{
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+}
+.main{
+    background-color: red;
+    height: 50vh;
+    width: 100vw;
+}
+.main-2{
+    width: 200px;
+    height: 100px;
+    
+    background-color: bisque;
+    position: relative;
+}
+.time{
+    position: absolute;
+    right: 5px;
+    color: white;
+    background-color: black;
+    bottom: 5px;
+    height: 13px;
+    width: 22px;
+    font-size: 12px;
